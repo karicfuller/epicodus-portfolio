@@ -1,8 +1,13 @@
 .jumbotron {
   background-color: turquoise;
   text-align: center;
+  color: red;
 }
 
 .names h1 {
   font-weight: bold;
+}
+
+.names p {
+  color: black;
 }
